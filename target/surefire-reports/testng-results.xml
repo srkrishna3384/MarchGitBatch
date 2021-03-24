@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26124" started-at="2021-03-24T02:47:08Z" finished-at="2021-03-24T02:47:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26124" started-at="2021-03-24T02:47:08Z" finished-at="2021-03-24T02:47:34Z">
+      <class name="com.marchbatch.scripts.TestOne">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.marchbatch.scripts.TestOne@6bf256fa]" name="test" duration-ms="14165" started-at="2021-03-24T08:17:08Z" finished-at="2021-03-24T08:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.marchbatch.scripts.TestOne -->
+      <class name="com.marchbatch.scripts.TestTwo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.marchbatch.scripts.TestTwo@13969fbe]" name="demo" duration-ms="11921" started-at="2021-03-24T08:17:22Z" finished-at="2021-03-24T08:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.marchbatch.scripts.TestTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
