@@ -18,5 +18,6 @@ public class TestTwo {
 		System.out.println("Navigated to "+currentUrl);
 		driver.close();
 		System.out.println("Browser closed successfully....");
+		System.out.println("Shivakumar updates");
 	}
 }
