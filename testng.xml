@@ -4,8 +4,8 @@
   <test name="Test">
     <classes>
       <class name="com.marchbatch.scripts.TestOne"/>
-        <class name="com.marchbatch.scripts.TestTwo"/>
-        <class name="com.marchbatch.scripts.TestThree"/>
+<!--         <class name="com.marchbatch.scripts.TestTwo"/> -->
+<!--         <class name="com.marchbatch.scripts.TestThree"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
